@@ -1,4 +1,4 @@
-## Hey yo everyone welcome!
+## Welcome to git!
 
 - I'm adding this from 'fearute-brach'
-- Yo Jhonny here!
+- This is coming from dev-antonios
